@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    margin-top: 15px;
+}
+.contain{
+    background-color: black;
+    width: 84px;
+    height: 84px;
+    margin: 5px;
+    border-radius: 10px;
+}
